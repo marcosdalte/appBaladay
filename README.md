@@ -1,2 +1,2 @@
 # appBaladay
-Skeletun App for Baladay
+Skeleton App for Baladay
